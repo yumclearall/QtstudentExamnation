@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Debug/debug/othercss.css</file>
+        <file>Debug/debug/stuqss.css</file>
+    </qresource>
+</RCC>
