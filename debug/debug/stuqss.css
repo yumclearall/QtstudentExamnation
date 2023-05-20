@@ -1,0 +1,36 @@
+/*主界面样式*/
+QWidget#ArLogin{
+background-color: #34495e;
+}
+QWidget#StudentLogin{
+background-color: #34495e;
+}
+QWidget#TeacherLogin{
+background-color: #34495e;
+}
+QPushButton{
+background-color: rgba(0,255,255,20);
+border-radius:4;
+color: #ffffff;
+min-width: 80px;
+min-height: 30px;
+}
+QHeaderView::section{
+padding: 2px 4px;
+border: solid 1px blue;
+font: bold 18px '宋体';
+text-align: center;
+color: #909399;
+height: 40px;
+padding-top: 10px;
+}
+QTableWidget::item{
+font: bold 18px '宋体';
+color: #909399;
+}
+QLineEdit{
+border-radius: 4px;
+}
+QLabel{
+color: white;
+}
