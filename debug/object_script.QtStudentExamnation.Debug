@@ -1,0 +1,16 @@
+INPUT(
+./debug\main.o
+./debug\widget.o
+./debug\login.o
+./debug\studentlogin.o
+./debug\teacherlogin.o
+./debug\arlogin.o
+./debug\stuexammysql.o
+./debug\qrc_m_css.o
+./debug\moc_widget.o
+./debug\moc_login.o
+./debug\moc_studentlogin.o
+./debug\moc_teacherlogin.o
+./debug\moc_arlogin.o
+./debug\moc_stuexammysql.o
+);

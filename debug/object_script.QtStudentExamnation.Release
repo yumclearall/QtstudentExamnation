@@ -1,0 +1,16 @@
+INPUT(
+./release\main.o
+./release\widget.o
+./release\login.o
+./release\studentlogin.o
+./release\teacherlogin.o
+./release\arlogin.o
+./release\stuexammysql.o
+./release\qrc_m_css.o
+./release\moc_widget.o
+./release\moc_login.o
+./release\moc_studentlogin.o
+./release\moc_teacherlogin.o
+./release\moc_arlogin.o
+./release\moc_stuexammysql.o
+);
